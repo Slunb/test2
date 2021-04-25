@@ -1,6 +1,7 @@
 This is an example file to use while testing out Sublime Merge. 
 
 
-Commit more
+Commit more 
+########add it
 
 Changed on GitHub
