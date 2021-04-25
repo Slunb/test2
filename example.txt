@@ -4,4 +4,6 @@ This is an example file to use while testing out Sublime Merge.
 Commit more 
 ########add it
 
+
+#More
 Changed on GitHub
